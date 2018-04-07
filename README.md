@@ -1,0 +1,1 @@
+Checkers clone designed to be played against AI and CPU in order to test out game design in Canvas as well as to utilize websockets and Node.Js
